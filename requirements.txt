@@ -1,0 +1,13 @@
+streamlit
+psycopg2-binary
+
+folium
+streamlit-folium
+pandas
+python-dotenv
+numpy
+requests
+sentence-transformers
+spacy
+scikit-learn
+torch
